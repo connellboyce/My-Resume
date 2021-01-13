@@ -7,7 +7,7 @@ Bachelor of Science in Information Science and Technology
 - May 2021 (Expected)
 - Major GPA: 3.49
 - Design and Development Option
-Relevant Coursework: Object-Oriented Java I-III, Human Centered Design, Organizational Strategy, Object-Oriented Software
+-Relevant Coursework: Object-Oriented Java I-III, Human Centered Design, Organizational Strategy, Object-Oriented Software
 Applications, Web-Development, Distributed Object Computing, Emerging Issues in Technology
 
 ## Relevant Project Experience
