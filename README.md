@@ -40,3 +40,34 @@ information and calculating BMI.
 - Utilized Express framework in conjunction with Node.js for the application design.
 - Handled interactive modules through original and Bootstrapped JavaScript and API integration.
 - Completed on a schedule of sprints within an agile development cycle.
+
+## Skills
+### Technical Skills
+Java, HTML, CSS, JavaScript, Object-Oriented Analysis/Design, Unified Modeling Language (UML),
+Model-View-Controller (MVC), JUnit, Express, Node.js, Spring Boot, Maven, MongoDB, RESTful APIs, Web Scraping, JavaFX,
+FXML, Swing, GitHub, JQuery, Ajax, AWS, Docker
+### Foreign Languages
+- Spanish (Intermediate)
+### Software
+- Netbeans
+- Git
+- IntelliJ
+- Visual Studio Code
+- Postman
+- Atom
+- Microsoft Office
+
+## Work Experience
+### Desk Clerk, Penn State Commons Desk
+- September 2019 to Present
+- Responsible for mail sorting, database management, and customer service in Penn State’s on-campus community.
+### Intern, Frank B. Clayton's Sons Inc.
+- May 2018 to August 2018
+- Organized files, priced jobs, and created invoices as an intern responsible for improving workflow.
+
+## Organizations
+- Gamma Tau Phi: IST Honor Society
+  - January 2020 to Present
+  
+## Honors and Awards
+- Dean's List (Fall 2020, Spring 2020, Fall 2019)
