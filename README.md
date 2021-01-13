@@ -2,7 +2,7 @@
 (484) 753-2339  -  cpb22@psu.edu  -  linkedin.com/in/connellpboyce  -  github.com/connellboyce
 
 ## Education
-The Pennsylvania State University, University Park, PA 
+The Pennsylvania State University, University Park, PA, 
 Bachelor of Science in Information Science and Technology 
 - May 2021 (Expected)
 - Major GPA: 3.49
